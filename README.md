@@ -34,7 +34,7 @@ The game features multiple audio tracks:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/t8ne/p5.git
+   git clone https://github.com/t2ne/p5.git
    ```
 
 2. Install XAMPP (Windows) or MAMP (macOS) and run it
